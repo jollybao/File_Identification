@@ -1,0 +1,5 @@
+This project was written in standard MIPS assembly language, and tested 
+in a simulator QtSpim.It could read from a file and compute the number
+of words, clauses, and sentences, and then compare results to an user
+input database; if conditions are matched, it would specify who the
+author is.
